@@ -1,5 +1,5 @@
 # VRP
-This project showcases the development of an optimization solution for the Vehicle Routing Problem (VRP) utilizing genetic algorithms. The VRP is a common logistics challenge in production and distribution businesses, where the goal is to determine the most efficient routes for a fleet of vehicles to deliver goods to a set of locations.
+I am currently working on this project. This project showcases the development of an optimization solution for the Vehicle Routing Problem (VRP) utilizing genetic algorithms. The VRP is a common logistics challenge in production and distribution businesses, where the goal is to determine the most efficient routes for a fleet of vehicles to deliver goods to a set of locations.
 
 Project Highlights
 Algorithm Development: Created an optimization solution that efficiently handles the logistics of VRP.
